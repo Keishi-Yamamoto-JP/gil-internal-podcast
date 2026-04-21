@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Climate Finance Podcast</title>
+    <title>Climate Finance</title>
     <description>カーボン価格・EU ETS・CBAM・グリーンボンド・TCFD・気候基金動向のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:53:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:56:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
