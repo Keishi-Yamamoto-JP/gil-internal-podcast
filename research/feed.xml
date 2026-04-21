@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Research</title>
+    <description>GILコンサルプロジェクトの研究成果をAudio Overviewで配信。BRD・検証レポート・市場分析等のプロジェクト成果物の音声版</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 21 Apr 2026 18:07:00 +0900</lastBuildDate>
+    <itunes:author>Green Impact Labs</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Business" />
+    <itunes:image href="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/cover.jpg" />
+    <image>
+      <url>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/cover.jpg</url>
+      <title>Research</title>
+      <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research</link>
+    </image>
+    <item>
+      <title>(2026.4.21) ajinomoto_20260421_participation_drivers_detailed_v1.docx</title>
+      <description>(2026.4.21) ajinomoto_20260421_participation_drivers_detailed_v1.docx&lt;br/&gt;&lt;br/&gt;NLM: タイ農家のトラウマを解いた技術&lt;br/&gt;出典: ajinomoto_20260421_participation_drivers_detailed_v1.docx</description>
+      <itunes:summary>(2026.4.21) ajinomoto_20260421_participation_drivers_detailed_v1.docx&lt;br/&gt;&lt;br/&gt;NLM: タイ農家のトラウマを解いた技術&lt;br/&gt;出典: ajinomoto_20260421_participation_drivers_detailed_v1.docx</itunes:summary>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.4.21%29%20ajinomoto_20260421_participation_drivers_detailed_v1.docx-2026-04-21.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.4.21%29%20ajinomoto_20260421_participation_drivers_detailed_v1.docx-2026-04-21.mp3" length="18049327" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
