@@ -4,9 +4,15 @@
     <title>Power Grid</title>
     <description>系統用蓄電池・LTDA・容量市場・JEPX・VPP・送配電の最新動向のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:08:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
+    <itunes:image href="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid/cover.jpg" />
+    <image>
+      <url>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid/cover.jpg</url>
+      <title>Power Grid</title>
+      <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid</link>
+    </image>
   </channel>
 </rss>

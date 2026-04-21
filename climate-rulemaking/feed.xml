@@ -4,9 +4,15 @@
     <title>Climate Rulemaking</title>
     <description>SBTi/CDP/GHG Protocol/CBAM/CSRD/気候訴訟等のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:08:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
+    <itunes:image href="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-rulemaking/cover.jpg" />
+    <image>
+      <url>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-rulemaking/cover.jpg</url>
+      <title>Climate Rulemaking</title>
+      <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-rulemaking</link>
+    </image>
   </channel>
 </rss>
