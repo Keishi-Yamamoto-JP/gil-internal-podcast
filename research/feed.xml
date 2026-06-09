@@ -4,7 +4,7 @@
     <title>Research</title>
     <description>GILコンサルプロジェクトの研究成果をAudio Overviewで配信。BRD・検証レポート・市場分析等のプロジェクト成果物の音声版</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 15 May 2026 09:07:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 05:25:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Research</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research</link>
     </image>
+    <item>
+      <title>(2026.6.10) 農地の炭素負債は20年ローン</title>
+      <description>(2026.6.10) 農地の炭素負債は20年ローン&lt;br/&gt;&lt;br/&gt;NLM: 農地の炭素負債は20年ローン&lt;br/&gt;出典: LSR-Standard_全章サマリー.md</description>
+      <itunes:summary>(2026.6.10) 農地の炭素負債は20年ローン&lt;br/&gt;&lt;br/&gt;NLM: 農地の炭素負債は20年ローン&lt;br/&gt;出典: LSR-Standard_全章サマリー.md</itunes:summary>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.6.10%29%20%E8%BE%B2%E5%9C%B0%E3%81%AE%E7%82%AD%E7%B4%A0%E8%B2%A0%E5%82%B5%E3%81%AF20%E5%B9%B4%E3%83%AD%E3%83%BC%E3%83%B3-2026-06-10.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.6.10%29%20%E8%BE%B2%E5%9C%B0%E3%81%AE%E7%82%AD%E7%B4%A0%E8%B2%A0%E5%82%B5%E3%81%AF20%E5%B9%B4%E3%83%AD%E3%83%BC%E3%83%B3-2026-06-10.mp3" length="16864827" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.5.15) 収穫が増えるほど鳥が消える</title>
       <description>(2026.5.15) 収穫が増えるほど鳥が消える&lt;br/&gt;&lt;br/&gt;NLM: 収穫が増えるほど鳥が消える&lt;br/&gt;出典: 5bbd8f58-en.pdf</description>
