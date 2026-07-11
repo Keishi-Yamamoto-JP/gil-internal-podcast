@@ -4,7 +4,7 @@
     <title>Agriculture</title>
     <description>農業サステナビリティ・SBTi FLAG・土壌炭素・バイオ炭・稲作AWD等のNotebookLM Audio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 11:36:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:11:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Agriculture</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri</link>
     </image>
+    <item>
+      <title>(2026.7.11) 輸出規制が招く食料パニックの正体</title>
+      <description>(2026.7.11) 輸出規制が招く食料パニックの正体&lt;br/&gt;&lt;br/&gt;NLM: 輸出規制が招く食料パニックの正体&lt;br/&gt;出典: 2026-07-11_fao_soco_2026.md</description>
+      <itunes:summary>(2026.7.11) 輸出規制が招く食料パニックの正体&lt;br/&gt;&lt;br/&gt;NLM: 輸出規制が招く食料パニックの正体&lt;br/&gt;出典: 2026-07-11_fao_soco_2026.md</itunes:summary>
+      <pubDate>Sat, 11 Jul 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.7.11%29%20%E8%BC%B8%E5%87%BA%E8%A6%8F%E5%88%B6%E3%81%8C%E6%8B%9B%E3%81%8F%E9%A3%9F%E6%96%99%E3%83%91%E3%83%8B%E3%83%83%E3%82%AF%E3%81%AE%E6%AD%A3%E4%BD%93-2026-07-11.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.7.11%29%20%E8%BC%B8%E5%87%BA%E8%A6%8F%E5%88%B6%E3%81%8C%E6%8B%9B%E3%81%8F%E9%A3%9F%E6%96%99%E3%83%91%E3%83%8B%E3%83%83%E3%82%AF%E3%81%AE%E6%AD%A3%E4%BD%93-2026-07-11.mp3" length="16191131" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.7.10) AMSilk・味の素フーズヨーロッパ、シルクタンパク質の産業規模製造供給契約を締結</title>
       <description>(2026.7.10) AMSilk・味の素フーズヨーロッパ、シルクタンパク質の産業規模製造供給契約を締結&lt;br/&gt;&lt;br/&gt;NLM: 味の素がクモの糸を量産する衝撃&lt;br/&gt;出典: 2026-07-08_amsilk_ajinomoto_silk_protein.md</description>
