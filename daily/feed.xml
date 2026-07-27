@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Daily Brief</title>
-    <description>Green Impact Labs デイリー・インテリジェンス・ブリーフ。daily-intelで収集したクライアント関連ニュース・政策動向・AI/Notion/Claude Code・農業サステナビリティの音声版（Azure Speech Neural TTSで合成）</description>
+    <description>Green Impact Labs デイリー・インテリジェンス・ブリーフの音声版。日次自動配信(Azure TTS)は2026-07-06に廃止。既存エピソードは保全し、今後はカテゴリ別チャンネルへの手動キュレーション配信(NLM)へ移行</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 May 2026 03:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:27:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
