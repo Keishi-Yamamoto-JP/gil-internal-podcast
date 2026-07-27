@@ -4,7 +4,7 @@
     <title>Research</title>
     <description>GILコンサルプロジェクトの研究成果をAudio Overviewで配信。BRD・検証レポート・市場分析等のプロジェクト成果物の音声版</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 08:17:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:19:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Research</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research</link>
     </image>
+    <item>
+      <title>(2026.7.27) 味の素が挑む炭素測定の壁</title>
+      <description>(2026.7.27) 味の素が挑む炭素測定の壁&lt;br/&gt;&lt;br/&gt;NLM: 味の素が挑む炭素測定の壁&lt;br/&gt;出典: soc_mrv_review_提出版.md</description>
+      <itunes:summary>(2026.7.27) 味の素が挑む炭素測定の壁&lt;br/&gt;&lt;br/&gt;NLM: 味の素が挑む炭素測定の壁&lt;br/&gt;出典: soc_mrv_review_提出版.md</itunes:summary>
+      <pubDate>Mon, 27 Jul 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.7.27%29%20%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8C%91%E3%82%80%E7%82%AD%E7%B4%A0%E6%B8%AC%E5%AE%9A%E3%81%AE%E5%A3%81-2026-07-27.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.7.27%29%20%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8C%91%E3%82%80%E7%82%AD%E7%B4%A0%E6%B8%AC%E5%AE%9A%E3%81%AE%E5%A3%81-2026-07-27.mp3" length="22315548" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.6.10) GHG Protocol Land Sector and Removals Standard 全章サマリーを公開</title>
       <description>(2026.6.10) GHG Protocol Land Sector and Removals Standard 全章サマリーを公開&lt;br/&gt;&lt;br/&gt;NLM: 農地の炭素負債は20年ローン&lt;br/&gt;出典: LSR-Standard_全章サマリー.md</description>
