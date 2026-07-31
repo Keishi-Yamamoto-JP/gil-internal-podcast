@@ -4,7 +4,7 @@
     <title>Agriculture</title>
     <description>農業サステナビリティ・SBTi FLAG・土壌炭素・バイオ炭・稲作AWD等のNotebookLM Audio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 21:27:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:23:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Agriculture</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri</link>
     </image>
+    <item>
+      <title>(2026.7.31) 石と植物でPFAS浄化コストを100分の1に</title>
+      <description>(2026.7.31) 石と植物でPFAS浄化コストを100分の1に&lt;br/&gt;&lt;br/&gt;NLM: 石と植物でPFAS浄化コストを100分の1に&lt;br/&gt;出典: 2026-07-31_yale_pfas_biochar_pnas.md</description>
+      <itunes:summary>(2026.7.31) 石と植物でPFAS浄化コストを100分の1に&lt;br/&gt;&lt;br/&gt;NLM: 石と植物でPFAS浄化コストを100分の1に&lt;br/&gt;出典: 2026-07-31_yale_pfas_biochar_pnas.md</itunes:summary>
+      <pubDate>Fri, 31 Jul 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.7.31%29%20%E7%9F%B3%E3%81%A8%E6%A4%8D%E7%89%A9%E3%81%A7PFAS%E6%B5%84%E5%8C%96%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92100%E5%88%86%E3%81%AE1%E3%81%AB-2026-07-31.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.7.31%29%20%E7%9F%B3%E3%81%A8%E6%A4%8D%E7%89%A9%E3%81%A7PFAS%E6%B5%84%E5%8C%96%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92100%E5%88%86%E3%81%AE1%E3%81%AB-2026-07-31.mp3" length="15629319" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.7.11) FAO、農業商品市場の現状2026（SOCO）を発刊</title>
       <description>(2026.7.11) FAO、農業商品市場の現状2026（SOCO）を発刊&lt;br/&gt;&lt;br/&gt;NLM: 輸出規制が招く食料パニックの正体&lt;br/&gt;出典: 2026-07-11_fao_soco_2026.md</description>
