@@ -4,7 +4,7 @@
     <title>Agriculture</title>
     <description>農業サステナビリティ・SBTi FLAG・土壌炭素・バイオ炭・稲作AWD等のNotebookLM Audio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 10:38:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:38:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Agriculture</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri</link>
     </image>
+    <item>
+      <title>(2026.9.10) メタンを減らし炭素を貯める稲作</title>
+      <description>(2026.9.10) メタンを減らし炭素を貯める稲作&lt;br/&gt;&lt;br/&gt;NLM: メタンを減らし炭素を貯める稲作&lt;br/&gt;出典: 2026-09-10_basf_irri_optima_rice.md</description>
+      <itunes:summary>(2026.9.10) メタンを減らし炭素を貯める稲作&lt;br/&gt;&lt;br/&gt;NLM: メタンを減らし炭素を貯める稲作&lt;br/&gt;出典: 2026-09-10_basf_irri_optima_rice.md</itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.9.10%29%20%E3%83%A1%E3%82%BF%E3%83%B3%E3%82%92%E6%B8%9B%E3%82%89%E3%81%97%E7%82%AD%E7%B4%A0%E3%82%92%E8%B2%AF%E3%82%81%E3%82%8B%E7%A8%B2%E4%BD%9C-2026-09-10.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.9.10%29%20%E3%83%A1%E3%82%BF%E3%83%B3%E3%82%92%E6%B8%9B%E3%82%89%E3%81%97%E7%82%AD%E7%B4%A0%E3%82%92%E8%B2%AF%E3%82%81%E3%82%8B%E7%A8%B2%E4%BD%9C-2026-09-10.mp3" length="13499483" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.7.31) Yale大、PFAS汚染農地の低コスト修復工法をPNASに発表</title>
       <description>(2026.7.31) Yale大、PFAS汚染農地の低コスト修復工法をPNASに発表&lt;br/&gt;&lt;br/&gt;NLM: 石と植物でPFAS浄化コストを100分の1に&lt;br/&gt;出典: 2026-07-31_yale_pfas_biochar_pnas.md</description>
