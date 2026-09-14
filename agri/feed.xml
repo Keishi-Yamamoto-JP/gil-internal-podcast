@@ -4,7 +4,7 @@
     <title>Agriculture</title>
     <description>農業サステナビリティ・SBTi FLAG・土壌炭素・バイオ炭・稲作AWD等のNotebookLM Audio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:48:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:31:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Agriculture</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri</link>
     </image>
+    <item>
+      <title>(2026.9.14) 在来種とAIで築くBRICSの食料覇権</title>
+      <description>(2026.9.14) 在来種とAIで築くBRICSの食料覇権&lt;br/&gt;&lt;br/&gt;NLM: 在来種とAIで築くBRICSの食料覇権&lt;br/&gt;出典: 2026-09-14_brics_agroecology_coe_network.md</description>
+      <itunes:summary>(2026.9.14) 在来種とAIで築くBRICSの食料覇権&lt;br/&gt;&lt;br/&gt;NLM: 在来種とAIで築くBRICSの食料覇権&lt;br/&gt;出典: 2026-09-14_brics_agroecology_coe_network.md</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.9.14%29%20%E5%9C%A8%E6%9D%A5%E7%A8%AE%E3%81%A8AI%E3%81%A7%E7%AF%89%E3%81%8FBRICS%E3%81%AE%E9%A3%9F%E6%96%99%E8%A6%87%E6%A8%A9-2026-09-14.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.9.14%29%20%E5%9C%A8%E6%9D%A5%E7%A8%AE%E3%81%A8AI%E3%81%A7%E7%AF%89%E3%81%8FBRICS%E3%81%AE%E9%A3%9F%E6%96%99%E8%A6%87%E6%A8%A9-2026-09-14.mp3" length="15916838" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.9.10) ESA - 蛍光観測衛星FLEX の打ち上げ日程を公表</title>
       <description>(2026.9.10) ESA - 蛍光観測衛星FLEX の打ち上げ日程を公表&lt;br/&gt;&lt;br/&gt;NLM: 宇宙から植物のSOSを捉えるFLEX&lt;br/&gt;出典: 2026-09-10_esa_flex_launch.md</description>
