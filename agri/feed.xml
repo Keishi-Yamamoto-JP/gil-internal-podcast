@@ -4,7 +4,7 @@
     <title>Agriculture</title>
     <description>農業サステナビリティ・SBTi FLAG・土壌炭素・バイオ炭・稲作AWD等のNotebookLM Audio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:31:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:42:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Agriculture</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri</link>
     </image>
+    <item>
+      <title>(2026.9.14) 極端気象が壊す土壌の炭素金庫</title>
+      <description>(2026.9.14) 極端気象が壊す土壌の炭素金庫&lt;br/&gt;&lt;br/&gt;NLM: 極端気象が壊す土壌の炭素金庫&lt;br/&gt;出典: 2026-09-14_ffpri_dwc_organometal_complexes.md</description>
+      <itunes:summary>(2026.9.14) 極端気象が壊す土壌の炭素金庫&lt;br/&gt;&lt;br/&gt;NLM: 極端気象が壊す土壌の炭素金庫&lt;br/&gt;出典: 2026-09-14_ffpri_dwc_organometal_complexes.md</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.9.14%29%20%E6%A5%B5%E7%AB%AF%E6%B0%97%E8%B1%A1%E3%81%8C%E5%A3%8A%E3%81%99%E5%9C%9F%E5%A3%8C%E3%81%AE%E7%82%AD%E7%B4%A0%E9%87%91%E5%BA%AB-2026-09-14.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/agri/%282026.9.14%29%20%E6%A5%B5%E7%AB%AF%E6%B0%97%E8%B1%A1%E3%81%8C%E5%A3%8A%E3%81%99%E5%9C%9F%E5%A3%8C%E3%81%AE%E7%82%AD%E7%B4%A0%E9%87%91%E5%BA%AB-2026-09-14.mp3" length="14702786" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.9.14) BRICS - アグロエコロジー・再生農業CoEネットワークを承認</title>
       <description>(2026.9.14) BRICS - アグロエコロジー・再生農業CoEネットワークを承認&lt;br/&gt;&lt;br/&gt;NLM: 在来種とAIで築くBRICSの食料覇権&lt;br/&gt;出典: 2026-09-14_brics_agroecology_coe_network.md</description>
