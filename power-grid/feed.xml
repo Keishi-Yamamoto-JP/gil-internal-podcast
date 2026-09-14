@@ -4,7 +4,7 @@
     <title>Power Grid</title>
     <description>系統用蓄電池・LTDA・容量市場・JEPX・VPP・送配電の最新動向のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:32:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:51:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Power Grid</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid</link>
     </image>
+    <item>
+      <title>(2026.9.14) 1人3300万稼ぐ電力クオンツの正体</title>
+      <description>(2026.9.14) 1人3300万稼ぐ電力クオンツの正体&lt;br/&gt;&lt;br/&gt;NLM: 1人3300万稼ぐ電力クオンツの正体&lt;br/&gt;出典: 2026-09-14_digitalgrid_fy2607_bess.md</description>
+      <itunes:summary>(2026.9.14) 1人3300万稼ぐ電力クオンツの正体&lt;br/&gt;&lt;br/&gt;NLM: 1人3300万稼ぐ電力クオンツの正体&lt;br/&gt;出典: 2026-09-14_digitalgrid_fy2607_bess.md</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid/%282026.9.14%29%201%E4%BA%BA3300%E4%B8%87%E7%A8%BC%E3%81%90%E9%9B%BB%E5%8A%9B%E3%82%AF%E3%82%AA%E3%83%B3%E3%83%84%E3%81%AE%E6%AD%A3%E4%BD%93-2026-09-14.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid/%282026.9.14%29%201%E4%BA%BA3300%E4%B8%87%E7%A8%BC%E3%81%90%E9%9B%BB%E5%8A%9B%E3%82%AF%E3%82%AA%E3%83%B3%E3%83%84%E3%81%AE%E6%AD%A3%E4%BD%93-2026-09-14.mp3" length="14842121" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.9.11) 経済産業省 - JC-STAR★1を太陽光・蓄電池の系統連系技術要件に決定</title>
       <description>(2026.9.11) 経済産業省 - JC-STAR★1を太陽光・蓄電池の系統連系技術要件に決定&lt;br/&gt;&lt;br/&gt;NLM: 2027年太陽光セキュリティ義務化の衝撃&lt;br/&gt;出典: 2026-09-11_meti_jcstar_grid_code.md</description>
