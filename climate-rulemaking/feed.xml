@@ -4,7 +4,7 @@
     <title>Climate Rulemaking</title>
     <description>SBTi/CDP/GHG Protocol/CBAM/CSRD/気候訴訟等のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:07:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:32:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Climate Rulemaking</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-rulemaking</link>
     </image>
+    <item>
+      <title>(2026.9.22) 計算ルールが欠落したVerraのScope_3基準</title>
+      <description>(2026.9.22) 計算ルールが欠落したVerraのScope_3基準</description>
+      <itunes:summary>(2026.9.22) 計算ルールが欠落したVerraのScope_3基準</itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-rulemaking/%282026.9.22%29%20%E8%A8%88%E7%AE%97%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%8C%E6%AC%A0%E8%90%BD%E3%81%97%E3%81%9FVerra%E3%81%AEScope_3%E5%9F%BA%E6%BA%96-2026-09-22.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-rulemaking/%282026.9.22%29%20%E8%A8%88%E7%AE%97%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%8C%E6%AC%A0%E8%90%BD%E3%81%97%E3%81%9FVerra%E3%81%AEScope_3%E5%9F%BA%E6%BA%96-2026-09-22.mp3" length="16541078" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.9.14) 米EPA - 企業向けScope 3インベントリ指針を削除</title>
       <description>(2026.9.14) 米EPA - 企業向けScope 3インベントリ指針を削除&lt;br/&gt;&lt;br/&gt;NLM: 突然消えたEPAのScope 3算定指針&lt;br/&gt;出典: 2026-09-14_epa_scope3_guidance_removal.md</description>
